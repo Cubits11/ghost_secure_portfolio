@@ -65,30 +65,31 @@ In a world where privacy is optional and memory is cheap, Ghost Secure chooses *
    streamlit run dashboard/ghost_dashboard.py
 
 
-❖ Core Philosophy
-	•	Security is not just for passwords. It’s for pain.
-	•	Tamper detection isn’t about hackers. It’s about emotional integrity.
-	•	Decay isn’t a bug. It’s grief, modeled.
+## ❖ Core Philosophy
+
+- **Security is not just for passwords.** It’s for pain.  
+- **Tamper detection isn’t about hackers.** It’s about emotional integrity.  
+- **Decay isn’t a bug.** It’s grief, modeled.
 
 ---
 
-❖ Status
+## ❖ Status
 
-This repo is a portfolio artifact of a larger sacred system: Ghost Journal.
-It is job-ready, secure, and emotionally sacred.
+This repo is a **portfolio artifact** of a larger sacred system: **Ghost Journal**.  
+It is job-ready, secure, and emotionally sacred.  
 It is also under constant refinement—like grief itself.
 
 ---
 
-❖ Author
+## ❖ Author
 
-Pranav Bhave
-🛡️ Cybersecurity Minor, Penn State – Class of 2025
-🔗 LinkedIn | GitHub
+**Pranav Bhave** – B.S. Computer Science  
+🛡️ Cybersecurity Practitioner-in-Progress, Penn State – Class of 2025  
+🔗 [LinkedIn](https://www.linkedin.com/in/pranav-bhave-2a328721a/) | [GitHub](https://github.com/Cubits11)
 
 ---
 
-❖ License
+## ❖ License
 
-MIT License – This is an artifact of grief and respect. Use it well.
+**MIT License** – This is an artifact of grief and respect. Use it well.  
 Attribution welcome. Desecration discouraged.
